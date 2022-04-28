@@ -151,6 +151,7 @@ print(f'accuracy de Validación: {forest.score(x_test_out, y_test_out)}')
 
 # NAIVE BAYES------------------------------------------------------------
 
+
 # Seleccionar un modelo
 nayve = GaussianNB()
 
