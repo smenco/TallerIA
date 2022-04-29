@@ -201,7 +201,7 @@ forest.fit(x_train, y_train)
 # MÉTRICAS
 
 print('*'*50)
-print('NEAREST NEIGHBORS')
+print('RANDOM FOREST')
 
 # Accuracy de Entrenamiento de Entrenamiento
 print(f'accuracy de Entrenamiento de Entrenamiento: {forest.score(x_train, y_train)}')
